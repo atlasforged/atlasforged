@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to My GitHub Profile! 👨‍💻</h1>
+<h1 align="left">Welcome to My GitHub Profile! 👨🏻‍💻</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently digging deep into JavaScript.<br>💻 I’m building an anime database app styled like Crunchyroll!<br>🌟 Fun fact: I’ve logged over 340 hours in Apex Legends and still can't hit all my shots!</p>
+<p align="left">- 📚 I'm currently digging deep into JavaScript.<br>- 💻 I’m building an anime database app styled like Crunchyroll!<br>- 🌟 Fun fact: I’ve logged over 340 hours in Apex Legends and still can't hit all my shots!</p>
 
 ###
 
