@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Web Developer in Progress | JavaScript Explorer & Creative Problem Solver</p>
+<p align="left">Web Developer | JavaScript Explorer & Creative Problem Solver</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently digging deep into JavaScript.<br>- 💻 I’m building an anime database app styled like Crunchyroll!<br>- 🌟 Fun fact: I’ve logged over 340 hours in Apex Legends and still can't hit all my shots!</p>
+<p align="left">- 📚 I'm currently digging deep into JavaScript.<br>- 💻 I’m building an anime database app styled like Crunchyroll!<br>- 🌟 Fun fact: I’ve logged over 340 hours in Apex Legends and still can't hit my shots!</p>
 
 ###
 
